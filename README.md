@@ -1,128 +1,15 @@
-# 🚩 Siga nos
-
-
-<a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-
-<p><a href="https://ko-fi.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2023/12/cafe.webp?w=210" alt="Buy Me a Coffee" height="150" border="0" /></a><a href="https://github.com/inspirationlinks" target="_blank" rel="noopener"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2024/02/qr_github.png?w=200" alt="" height="150" border="0" /></a><a href="https://jerrymoz.wordpress.com/"><img style="border: 0px;height: 150px" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="" height="150" border="0" /></a></p>
-
-✅ 🇵🇹 Se estiverem interessados, poderão contribuir através do link acima indicado através do KO-FI, ou por MBWAY, ou Por transferência bancaria.
-[O IBAN OU NUMERO DE TELEMOVEL, serão facultados por mensagem privada]
-
-✅ 🇬🇧 If you are interested, you can contribute through the link indicated above through KO-FI, or by MBWAY, or BY bank transfer.
-[IBAN OR MOBILE NUMBER will be provided by private message]
-Please help fund the bandwidth costs to provide frequent updates to m3u
-
-✅ 🇵🇹 O teu apoio incentiva-me a dedicar mais tempo a este projeto que ja perdora a mais de 10 Anos. Precisamos de apoio e estimulo para continuar a trabalhar em prol de todos poderem usufruir de uma lista gratuita.
-
-✅ 🇬🇧 Your support encourages me to dedicate more time to this project. We need support and encouragement to continue working so that everyone can enjoy a free list.
-
----
-
-# 🎯 Purpose
-
-🇵🇹 ➾ Oferece uma playlist IPTV Free em formato M3U, destacando canais de TV e rádios essencialmente em português, canais Hispânicos, Norte Americanos e ingleses. Oferecendo igualmente uma lista de canais oriundo de plataformas de streaming gratuitos, tais como: (Pluto tv, SamsungTVPlus, Stirr, Plex, Roku, etc...)
-
-🇬🇧 ➾ It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, etc...)
-
-# ❓ Why?
-
-
-🇵🇹 ➾ Direcionada principalmente para os emigrantes que vivem no estrangeiro, mantendo dessa forma contacto com a sua cultura e País. Este projeto também pode ajudar qualquer pessoa que esteja interessado em Portugal ou apenas curiosa sobre o idioma. Alem disso, é uma alternativa bastante viável a baixo custo para verem tv.
-
-🇬🇧 ➾ Mainly aimed at emigrants living abroad, thus maintaining contact with their culture and country. This project can also help anyone who is interested in Portugal or just curious about the language. Furthermore, it is a very viable, low-cost alternative for watching TV.
-
----
-
-* Pode usar a secção [Issues](https://github.com/inspirationlinks/m3u/issues) para reportar bugs ou links Offline e a secção [Discussions](https://github.com/inspirationlinks/m3u/discussions) para sugestões ou assuntos diversos.
-
----
-
-# 🔔 Indice da lista inspiration live tv
-* 👇 Para perceber como está organizada a lista m3u em termos de <u> Estrutura</u> , clique em <b>"INDICE"</b> 👇
-
-[📝 INDICE](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
-
----
-
-# 🔔 Categorias da lista inspiration live tv
-* 👇 Para perceber como está organizada a lista m3u em termos de <u> Grupos</u> , clique em <b>"CATEGORIAS"</b> 👇
-
-[🗃️ CATEGORIAS](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categoriasgrupos)
-
----
-
-# 👍🏻 ɪɴsᴘɪ[я]ᴀᴛɪᴏɴ ʟɪvᴇ ᴛv Recommended IPTV players
-
-
-## 🥇 Simpletv_ Simpletv_V12.8.12 x32 vlc3020
-
-![SIMPLETV](/Logos/banners/simpletv.png "SIMPLETV IPTV")
-
-[👉 🖧 Download Simple tv](https://www.mediafire.com/file/3sxter03w6tflfm/simpleTV_V12.8.12_%2528x32_vlc3020%2529.7z/file)
-
-### ❗❗ INFO E VERSÃO DO SIMPLE TV: (v0.5.0 b12.8.12) 
-
-* <b>Lista M3U Inspiration live tv Incluída</b> (Atualização automática e manual ativadas)
-
-* <b>TV SOURCES</b> (v3.81)
-
-* <b>Weather</b> (v0.34)
-
-* <b>Skins</b> (DarkMod - "modificada por ɪɴsᴘɪʀᴀᴛɪᴏɴ") 
-
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [Idioma automático do Áudio Predefinido] - (eng,prt,bra,esp,ita)
-
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [Idioma  automático de Legenda Predefinido] - (eng,prt,bra,esp,ita)
-
-* <b>Modificado por ɪɴsᴘɪʀᴀᴛɪᴏɴ</b> [EPG] - (Adicionado 2 fonte 🇵🇹 "by LITUATUI". Contem fontes de EPG de Pluto tv e SamsungTVPlus)
-
-* <b>Sistema Windows 32 bits</b> (funciona muito bem num sistema de 64 bits).
-
-* <b>VLC</b> (v3020)
-
-
-### [📢 🛠️ Configurações e Tutoriais do Simpletv](https://inspirationlinks.boards.net/board/16/simple-tv)
-
----
-
-## 🥇 OTT Navigator IPTV v1.7.1.2 
-
-
-![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
-
-[👉 🖧 Download OTT](https://www.mediafire.com/file/nh6mlatih0vrgjf/OTT_Navigator_v1.7.1.2_premium.apk/file)
-
-* <b>Sistema Android:</b> Não tem a lista <b>Inspiration Adicionada</b>, terá que a adicionar manualmente...
-* (O processo é simples, a primeira vez que entrar no programa ele pede para adicionar uma lista. É só copiar/colar e colocar a lista Inspiration e seguir os passos)
-
-* 📢 ❗ <b>NO OTT NAVIGATOR</b>, existem canais onde só tem som, mas não aparece a imagem, (ou em outras situações), terão que alterar o codec do vídeo.
-
- <b>╭─➤ CAMINHO:</b> Configurações ➤ Player ➤ Configurar preferências dos codecs ➤ Configurações de codec ➤ (depois é só escolher um codec diferente e testar se a imagem já aparece.)
-
----
-
-# ✅ Lista Inspiration Live TV M3U
-
-## **📺🖥️📱 M3U**: <https://bit.ly/41B7IFk>
-(Basta copiar e colar)
-
----
-
-# 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
-
-## [📺 📋 Confira a Lista Completa Canais](https://bit.ly/ListTotalCanais)
-
----
-
-# ✏️ 📋 Notas
-
-* ➾ RTP channels don't open in some players.
-* ➾ SIC Notícias only works with Portuguese IP, you need to use a VPN if you live outside Portugal.
-* ➾ Some streams the Acestream, only work on Simple tv.
-
----
-
-<a href='https://ko-fi.com/R6R5SJ5L8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-
-## ⭐ GitHub stars
-[![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+=====[ DOCUMENTÁRIO  ]=====
+#EXTINF:0 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS963VdHQIoS48f2Vp0weJjWmvy1lT-vAfkMg&usqp=CAU ,ANIMAL PLANET 
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/33157.m3u8
+#EXTINF:0 logo=https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png ,DISCOVERY CHANNEL 
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/33057.m3u8
+#EXTINF:0 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHE1LBws2UFpbIvNo3o_VtULMcqs91e2xQQ&s ,NAT GEO
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/33773.m3u8
+#EXTINF:0 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi2JmdEUXE3-KplTL-R1UPAWwnPviRl3hgeg&s ,GLOBO CEARÁ 
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/49459.m3u8
+#EXTINF:0 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SR7cYDyzOSdz7MK7PXaG7jsl5uczFBZhYA&s ,SBT HD
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/32485.m3u8
+#EXTINF:0 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mAt9KGwiSXaV-dZPP7oLP0eHRwOM8-yKiQ&s ,RECORD HD
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/32516.m3u8
+#EXTINF:0 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRtmd4xueW-i5ZIiSsGLR7DEBZTj_1VPl_g&usqp=CAU ,BAND HD
+http://n.srv1.xyz:8880/live/Rogislandio/13061980koko/33132.m3u8
